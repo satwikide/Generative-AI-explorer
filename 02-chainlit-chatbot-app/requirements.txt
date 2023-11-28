@@ -1,0 +1,6 @@
+langchain==0.0.312
+fastapi==0.99.1
+chainlit==0.7.2
+python-dotenv==1.0.0
+pypdf==3.16.4
+chromadb==3.4.1
